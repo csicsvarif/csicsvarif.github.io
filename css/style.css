@@ -1,4 +1,6 @@
-body
-{ background-color: black; }
+body{ 
+	background-color: black; 
+	font-family: 'Nunito Sans', sans-serif;
+}
 .white
 { color:white ; }
